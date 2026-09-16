@@ -1,7 +1,8 @@
 <img width="674" height="402" alt="IA pour les formateurs" src="https://github.com/user-attachments/assets/e637b131-82dc-41b4-81c1-7abd377a718b" />
-# Bonjour, je suis Alexandre 👋
 
 ### 🌱 IA • Créativité • Éducation • Coopération • Humain
+
+# Bonjour, je suis Alexandre 👋
 
 J’explore depuis plusieurs années les possibilités de l’**intelligence artificielle au service de projets humains, éducatifs et créatifs**.
 
