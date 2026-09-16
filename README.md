@@ -2,7 +2,7 @@
 
 ### 🌱 IA • Créativité • Éducation • Coopération • Humain
 
-# Bonjour, je suis Alexandre 👋
+## Bonjour, je suis Alexandre 👋
 
 J’explore depuis plusieurs années les possibilités de l’**intelligence artificielle au service de projets humains, éducatifs et créatifs**.
 
